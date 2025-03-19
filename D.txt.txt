@@ -1,7 +1,11 @@
 class D{
 
 }
+<<<<<<< HEAD
 
 class E{
+=======
+class C {
+>>>>>>> refs/remotes/origin/main
 
 }
